@@ -1,0 +1,67 @@
+.navbar-custom {
+    background-color: #020821;
+    color: white;
+  }
+.logdis{
+    padding-right: 25px;
+    width: 120px;
+    height: auto;
+
+}
+.btnlog{
+    color: #ffffff;
+    background-color: #000000;
+    border: 1px solid white;
+    padding: 8px 16px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    border-radius: 10px;
+}
+.btnlog:hover{
+    color: #000000;
+    background-color: #ffffff;
+   border-color: transparent;
+}
+.nav-link {
+    display: block;
+    color: #ffffff;
+    text-decoration: none;
+}
+.nav-link:hover {
+    display: block;
+    color: #d2d2d2;
+    text-decoration: none;
+}
+svg{
+    padding-right: 5px;
+}
+.navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+    display: flex;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 15px;
+}
+.logdis {
+    padding-right: 5px;
+    width: 120px;
+    height: auto;
+    margin-right: 25px;
+}
+.px-2 {
+    padding-right: 1rem!important;
+    padding-left: 0.5rem!important;
+}
+a{
+    text-decoration: none;
+}
+.pp{
+    border-radius: 50%;
+    width: 50px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 0;
+    margin-right: 15px;
+    height: auto;
+}

@@ -1,0 +1,7 @@
+export { default as Elements } from './elements/Elements'
+export { default as Moviedetail } from './moviedetail/moviedetail'
+export { default as Navlog } from './navlog/Navlog'
+export { default as Homepage } from './homepage/Homepage'
+export { default as Home } from './home/Home'
+export { default as Navbar } from './navbar/Navbar'
+export { default as Login } from './login-page'
